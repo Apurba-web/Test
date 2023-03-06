@@ -10,7 +10,7 @@ function App() {
             <h3 className="">Heading</h3>
          </div>
       </div>
-      
+      <></>
       <div style={{'height':'100vh' }} className="row">
         <div style={{'height':'10vh' }} className="c12-l-2 ">
           <h3 className="">Left Pan</h3>
