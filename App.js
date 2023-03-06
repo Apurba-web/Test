@@ -1,6 +1,6 @@
 
 import './App.css';
-import Hdr from './shared/Hdr'
+import Hdr from './shared/Hdr';
 
 function App() {
   return (
